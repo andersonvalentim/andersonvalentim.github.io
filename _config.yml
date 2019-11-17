@@ -1,6 +1,6 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Bem Vindo ao meu Blog
+description: Blog Anderson Cirilo Valentim
+meta_description: "Bem vindos ao meu Blog, irei falar de tudo que mais gosto: Música, programação e Segurança"
 
 markdown: kramdown
 highlighter: pygments
