@@ -3,4 +3,4 @@ layout: page
 title: About me 
 ---
 
-This is a static page. It could be an 'about page' if you'd like.
+Olá me chamo Anderson, seja bem vindo ao meu blog
